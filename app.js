@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'Built for high efficiency and crisp data visualization'
       ],
       github: '#',
-      demo: 'http://localhost:3001/'
+      demo: 'https://ruchir-sales-dashboard.vercel.app/'
     },
     'nyay-saathi': {
       title: 'Nyay Saathi - AI Legal Awareness Platform',
@@ -297,7 +297,7 @@ Milestones & Highlights:
 `,
     'projects': `
 Featured Projects:
-1. Sales Dashboard [Next.js 14, Supabase, Recharts | Live Demo: http://localhost:3001/]
+1. Sales Dashboard [Next.js 14, Supabase, Recharts | Live Demo: https://ruchir-sales-dashboard.vercel.app/]
 2. Nyay Saathi [AI Legal Awareness Platform]
 3. AR Glass Testing [Virtual Try-on & Vision Simulation]
 4. Dukaan Saathi [Merchant CRM & Order Manager]
