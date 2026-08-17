@@ -117,6 +117,34 @@ document.addEventListener('DOMContentLoaded', () => {
         'Modern motorsport aesthetic with high contrast UI'
       ],
       github: 'https://github.com/ruchir58/F1',
+      demo: 'https://ruchir58.github.io/F1/'
+    },
+    'mintly': {
+      title: 'Mintly - Digital Asset Platform',
+      subtitle: 'Modern platform for digital asset minting, analytics, and dynamic tracking',
+      tags: ['Next.js', 'React', 'Tailwind CSS', 'TypeScript', 'Vercel'],
+      description: 'Mintly is a modern, high-performance web platform built to provide an intuitive interface for digital asset minting, portfolio monitoring, and transaction management.',
+      highlights: [
+        'Sleek responsive web layout tuned for seamless digital asset interactions',
+        'Real-time transaction & minting status updates',
+        'Deployed on Vercel for high speed, reliability, and edge optimization',
+        'Interactive UI powered by modern component architecture'
+      ],
+      github: '#',
+      demo: 'https://mintly-ten.vercel.app/'
+    },
+    'data-scraping': {
+      title: 'Data Exploration & Web Scraping Toolkit',
+      subtitle: 'Automated web scraping pipeline, dataset cleaning, and exploratory data analysis',
+      tags: ['Python', 'BeautifulSoup', 'Pandas', 'Data Analysis', 'Web Scraping'],
+      description: 'An end-to-end data engineering repository focusing on automated web extraction, HTML structure parsing, cleaning unstructured data into structured DataFrames, and statistical data visualization.',
+      highlights: [
+        'Automated HTTP request handling and HTML element parsing using BeautifulSoup',
+        'Data cleaning and transformation workflows utilizing Pandas DataFrames',
+        'Exploratory Data Analysis (EDA) uncovering key dataset patterns and distributions',
+        'Open-source repository hosted on GitHub'
+      ],
+      github: 'https://github.com/ruchir58/Data-Exploration-Webscrapping',
       demo: null
     }
   };
@@ -276,7 +304,7 @@ Available Commands:
 - <span style="color: #ec4899;">skills</span>      : Display technical skill set & stack
 - <span style="color: #ec4899;">certificates</span>: View official certifications & credentials
 - <span style="color: #ec4899;">stats</span>       : View key milestones & community stats
-- <span style="color: #ec4899;">contact</span>     : View email address and phone number
+- <span style="color: #ec4899;">contact</span>     : View email address and social links
 - <span style="color: #ec4899;">whoami</span>      : Developer profile overview
 - <span style="color: #ec4899;">clear</span>       : Clear terminal output screen
 `,
@@ -290,7 +318,7 @@ Certifications & Credentials (13 Total):
 `,
     'stats': `
 Milestones & Highlights:
-- Repositories : 5+
+- Repositories : 7+
 - LinkedIn     : 300+ Connections
 - Certificates : 13
 - Community    : Member of "Easy Knowledge Club"
@@ -301,7 +329,9 @@ Featured Projects:
 2. Nyay Saathi [AI Legal Awareness Platform]
 3. AR Glass Testing [Virtual Try-on & Vision Simulation]
 4. Dukaan Saathi [Merchant CRM & Order Manager]
-5. F1 Ticket Booking [HTML5, CSS3]
+5. F1 Ticket Booking [HTML5, CSS3 | Live Demo: https://ruchir58.github.io/F1/]
+6. Mintly [Digital Asset Platform | Live Demo: https://mintly-ten.vercel.app/]
+7. Data Exploration & Web Scraping [Python, BeautifulSoup, Pandas | GitHub: https://github.com/ruchir58/Data-Exploration-Webscrapping]
 `,
     'skills': `
 Technical Stack & Skills:
@@ -312,7 +342,6 @@ Technical Stack & Skills:
     'contact': `
 Contact Details:
 - Email: <a href="mailto:ruchirkhandelwal26@gmail.com" style="color: #38bdf8; text-decoration: underline;">ruchirkhandelwal26@gmail.com</a>
-- Phone: +91 9352979340
 - GitHub: <a href="https://github.com/ruchir58" target="_blank" style="color: #38bdf8; text-decoration: underline;">github.com/ruchir58</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ruchir-khandelwal-7923333b1?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" style="color: #38bdf8; text-decoration: underline;">linkedin.com/in/ruchir-khandelwal</a>
 `,
@@ -321,7 +350,7 @@ Developer Profile:
 Name: Ruchir Khandelwal
 Role: AI/ML Developer & Full-Stack Engineer
 Core Stack: Python, HTML, CSS, Next.js, AI Agent Frameworks
-Milestones: 5+ Repos, 300+ Connections, 13 Certificates, Member of Easy Knowledge Club
+Milestones: 7+ Repos, 300+ Connections, 13 Certificates, Member of Easy Knowledge Club
 Status: Available for exciting technical roles & collaborations
 `
   };
